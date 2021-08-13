@@ -25,8 +25,8 @@ This projects you can see in my repositories
 
 ## ⚙️GitHub Analytics
 
-![AzizShik GitHub stats](https://github-readme-stats.vercel.app/api?username=AzizShik&show_icons=true)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AzizShik&repo=JS30)](https://github.com/AzizShik/JS30)
 
 
 
