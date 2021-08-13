@@ -1,5 +1,5 @@
 # Hi, my name is Abdyl-Aziz 👋
-## I'm Junior Frontend Developer 
+## 👨‍💻 I'm Junior Frontend Developer 
 
 ## 💻 Languages and Technologies:
 
