@@ -20,13 +20,12 @@
 ## 💬 Contacts: 
 ### Telegram : @abdyl-aziz ![Telegram](https://camo.githubusercontent.com/094b19161ea320272d260765f5e0aa21457376cbe40bdf61af4850fb901c1b59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656c656772616d2d3430343034303f7374796c653d666c6174266c6f676f3d74656c656772616d)
 
-Now i'm learning JavaScript and i'm doing pet projects.
-This projects you can see in my repositories
-
-## ⚙️GitHub Analytics
+**Now i'm learning JavaScript and i'm doing pet projects.
+This projects you can see in my repositories**
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AzizShik&repo=JS30)](https://github.com/AzizShik/JS30)
+
+
 
 
 
