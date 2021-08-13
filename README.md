@@ -25,7 +25,7 @@ This projects you can see in my repositories
 
 ## ⚙️GitHub Analytics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiAzizShikanuraghazra&show_icons=true)
+![AzizShik GitHub stats](https://github-readme-stats.vercel.app/api?username=AzizShik&show_icons=true)
 
 
 
