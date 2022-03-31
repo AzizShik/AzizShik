@@ -1,4 +1,4 @@
-# Hi, my name is Abdyl-Aziz 👋
+# Hi, my name is Abdul-Aziz 👋
 ## 👨‍💻 I'm Junior Frontend Developer 
 
 ## 💻 Languages and Technologies:
