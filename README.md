@@ -66,6 +66,12 @@
 <p align="left">Description: An animal shelter website with two pages.</p>
 <p align="left">Stack: JavaScript, Webpack, Fetch, JSON, Figma, Git, HTML, CSS, Sass, Animations, Webp and Avif.</p>
 
+<a href="https://github.com/AzizShik/not-fight-club" target="_blank">Not Fight Club</a>
+
+<p align="left">Description: A browser game inspired by Lord of the Rings with character creation, battles, and sound effects.</p> 
+<p align="left">Stack: JavaScript, Webpack, Routing, Local Storage, Grok-generated images, Audio effects.</p>
+
+
 ###
 
 <h2 align="left">Statistics:</h2>
