@@ -66,16 +66,20 @@
 <p align="left">Description: A strategic number-matching puzzle browser game with three game modes, powerful assist tools, scoring system, dark/light themes, and full state persistence.</p> 
 <p align="left">Stack: Vanilla JavaScript, Responsive CSS, localStorage, Audio effects, Vite.</p>
 
-<a href="https://github.com/AzizShik/Shelter" target="_blank">Shelter</a>
+<a href="https://github.com/AzizShik/photographer-portfolio" target="_blank">Photographer-Portfolio</a>
 
-<p align="left">Description: An animal shelter website with two pages.</p>
-<p align="left">Stack: JavaScript, Webpack, Fetch, JSON, Figma, Git, HTML, CSS, Sass, Animations, Webp and Avif.</p>
+<p align="left">Description: A responsive portfolio website for photographers with interactive features and optimized performance.</p>
+<p align="left">Stack: JavaScript, Responsive Design, Figma, Git, HTML, CSS, Sass, Animations, WebP, AVIF, localStorage.</p>
 
 <a href="https://github.com/AzizShik/not-fight-club" target="_blank">Not Fight Club</a>
 
 <p align="left">Description: A browser game inspired by Lord of the Rings with character creation, battles, and sound effects.</p> 
 <p align="left">Stack: JavaScript, Webpack, Routing, Local Storage, Grok-generated images, Audio effects.</p>
 
+<a href="https://github.com/AzizShik/Shelter" target="_blank">Shelter</a>
+
+<p align="left">Description: A multi-page animal shelter website showcasing adoptable pets with interactive features and responsive design.</p>
+<p align="left">Stack: JavaScript, Webpack, Fetch, JSON, Figma, Git, HTML, CSS, Sass, Animations, Webp and Avif.</p>
 
 ###
 
