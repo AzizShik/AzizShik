@@ -61,6 +61,11 @@
 
 <h2 align="left">Some of my projects:</h2>
 
+<a href="https://github.com/AzizShik/Pair-Em-Up" target="_blank">Pair 'em Up</a>
+
+<p align="left">Description: A strategic number-matching puzzle browser game with three game modes, powerful assist tools, scoring system, dark/light themes, and full state persistence.</p> 
+<p align="left">Stack: Vanilla JavaScript, Responsive CSS, localStorage, Audio effects, Vite.</p>
+
 <a href="https://github.com/AzizShik/Shelter" target="_blank">Shelter</a>
 
 <p align="left">Description: An animal shelter website with two pages.</p>
