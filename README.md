@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I enjoy programming because it allows me to solve problems, build creative solutions, and continuously learn new technologies.<br>I'm dedicated to learning frontend development, constantly improving my skills in modern frameworks, design principles, and user experience.</p>
+<p align="left">I enjoy programming because it allows me to solve problems, build creative solutions, and continuously learn new technologies.<br>I'm dedicated to learning frontend development, constantly improving my skills in modern frameworks, design principles and user experience.</p>
 
 ###
 
